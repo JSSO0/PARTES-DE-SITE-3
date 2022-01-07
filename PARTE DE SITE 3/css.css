@@ -1,0 +1,56 @@
+.quadrado{
+    position: relative;
+    top: 50%;
+    width: 540px; 
+    height: 600px;
+    background-color: rgb(255, 255, 255);
+    background-position: center;
+    border-radius: 3%;
+    box-shadow: 0 0 3px rgb(90, 89, 89);
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font: bold 15px arial, sans-serif;
+    text-align: left;
+    padding: 4px;
+    border-color: white;
+    } 
+    
+.N01{
+    font-family: arial;
+    font-size: 13;
+    text-align: left;
+    height: 35px;
+    width: 450px;
+    border-radius: 10px;
+    border: 1px solid #C4B4B4;
+    margin-bottom: 20px;
+    font-size: 11px;
+    padding: 4px;
+}
+
+.caixa01{
+    width: 200px;  
+}
+
+.label{
+    text-align: left;
+    padding: 4px;
+    width: 200px;
+    background-color: white;
+    box-shadow: 5px gray;  
+}
+
+.marcador{
+    text-align: left;
+    color: black;
+}
+
+.botão{
+    text-align: center;  
+}
+
+.final{
+    color: gray;
+    text-align: center;
+}
